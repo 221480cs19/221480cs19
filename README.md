@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @221480cs19
-- 👀 I’m interested in ...IT
-- 🌱 I’m currently learning ...in akfa university
-- 💞️ I’m looking to collaborate on ...221480@akfauniversity.org
-- 📫 my neme is samandar sayfullayev
+- 👋 Hi, I’m @221480cs19 Samandar Sayfullayev
+- 👀 I’m interested in - IT
+- 🌱 I’m currently learning - in akfa university
+- 📫 221480@akfauniversity.org
 
 <!---
 221480cs19/221480cs19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
